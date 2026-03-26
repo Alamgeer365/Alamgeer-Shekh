@@ -1,6 +1,6 @@
-# Alamgeer-Shekh# Hi 👋, I'm **Alam**
+Hi, I'm **Alamgeer**
 
-## 🚀 **Full Stack Developer | B.Tech CSE Final Year | Backend & API Developer**
+##  **Full Stack Developer | B.Tech CSE Final Year | Backend & API Developer**
 
 ---
 
